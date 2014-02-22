@@ -27,7 +27,11 @@ channels. When the Bass drum is hit, its equivalent MIDI note is sent to the PC 
 Files:
 
 main.c //start here
+
 midi.h //MIDI macros for note numbers
+
 adc.h //adc routines and configuration
+
 serial.h //RS232 serial port configuration
+
 LCD_meg128.h //LCD library
