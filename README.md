@@ -17,8 +17,11 @@ A simple circuit required to ensure that the piezo outputs voltages between 0V t
 The heart of the system is usually something that can think and get all the work done! Here, it is the AVR μC based development board. It has an LCD display, LED’s on it, a serial port for connecting it to the computer and an easy to connect sensor port. The analog board gives the analog input from drum-pads to the sensor port on this board, which is then converted into a digital input by the ADC triggering the MIDI note after it crosses a certain threshold!
 
 LED port: Port C
+
 ADC port: Port F
+
 UART0
+
 Timer0 - Interrupt Clear Timer on Compare match (CTC mode)
 
 The basics of MIDI: Musical Instrument Digital Interface abbreviated as MIDI is an industry-standard communication protocol that was developed so that electronic musical instruments and other equipment like computers or any other devices could communicate, control and synchronize with each other and exchange system data.
