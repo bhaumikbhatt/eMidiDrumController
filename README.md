@@ -4,6 +4,7 @@ eMidiDrumController
 The electronic MIDI drum controller project on AVR ATMega128 microcontroller.
 
 Links:
+
 Pictures: https://www.facebook.com/media/set/?set=a.10150412393235176.626172.681760175&type=1&l=019c97223c
 Presentation: https://dl.dropboxusercontent.com/u/10648193/Presentation%20%5BElectronic%20MIDI%20Drum%20Controller%5D.ppt
 >Yet to upload schematic.
