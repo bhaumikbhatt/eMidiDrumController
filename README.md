@@ -8,6 +8,9 @@ Links:
 Pictures: http://goo.gl/MCKLs9
 
 Presentation: http://goo.gl/ddCL1l
+
+Published paper: http://goo.gl/YdYXMG
+
 >Yet to upload schematic.
 
 I found myself a way to make the electronic drum kit as I could not afford one. Necessity is the mother of all inventions and I decided to mother mine. I figured I could also record drum tracks with it for my band, practice with head-phones on and have a lot of fun!
