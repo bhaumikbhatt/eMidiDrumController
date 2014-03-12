@@ -5,9 +5,8 @@ The electronic MIDI drum controller project on AVR ATMega128 microcontroller.
 
 Links:
 
-Pictures: 
-https://www.facebook.com/media/set/?set=a.10150412393235176.626172.681760175&type=1&l=019c97223c
-Presentation: https://dl.dropboxusercontent.com/u/10648193/Presentation%20%5BElectronic%20MIDI%20Drum%20Controller%5D.ppt
+Pictures: http://goo.gl/MCKLs9
+Presentation: http://goo.gl/ddCL1l
 >Yet to upload schematic.
 
 I found myself a way to make the electronic drum kit as I could not afford one. Necessity is the mother of all inventions and I decided to mother mine. I figured I could also record drum tracks with it for my band, practice with head-phones on and have a lot of fun!
