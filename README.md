@@ -3,6 +3,11 @@ eMidiDrumController
 
 The electronic MIDI drum controller project on AVR ATMega128 microcontroller.
 
+Links:
+Pictures: https://www.facebook.com/media/set/?set=a.10150412393235176.626172.681760175&type=1&l=019c97223c
+Presentation: https://dl.dropboxusercontent.com/u/10648193/Presentation%20%5BElectronic%20MIDI%20Drum%20Controller%5D.ppt
+>Yet to upload schematic.
+
 I found myself a way to make the electronic drum kit as I could not afford one. Necessity is the mother of all inventions and I decided to mother mine. I figured I could also record drum tracks with it for my band, practice with head-phones on and have a lot of fun!
 
 After a lot of research and looking at DIY websites, fathers of its invention and people who had already done this, it was inspiring. Instead of making an entire stand-alone drum kit, it struck to me that I should take advantage of equipment I already owned (a computer with audio workstation software and a micro-controller based development board) to produce the drum sound. So, all that was needed was Trigger-to-MIDI conversion. I did not have to worry about sounds. Thus, by using MIDI, the possibilities are endless. Any sound is possible!
