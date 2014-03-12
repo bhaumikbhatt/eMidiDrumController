@@ -6,6 +6,7 @@ The electronic MIDI drum controller project on AVR ATMega128 microcontroller.
 Links:
 
 Pictures: http://goo.gl/MCKLs9
+
 Presentation: http://goo.gl/ddCL1l
 >Yet to upload schematic.
 
